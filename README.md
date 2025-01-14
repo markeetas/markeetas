@@ -6,3 +6,4 @@ https://github.com/markeetas/pojistovna_aplikace
 
 ## Data Science
 https://github.com/markeetas/fraud_detection                                    
+https://github.com/markeetas/data_thefts
